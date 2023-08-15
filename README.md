@@ -7,7 +7,7 @@ Projecto construido do evento Next level Week da Rocketseat.
 ##Tecnologias
 - HTML
 - CSS
- -Git e GitHub
+- Git e GitHub
 
 ##Contacto
 [turancumbana@gmail.com]
